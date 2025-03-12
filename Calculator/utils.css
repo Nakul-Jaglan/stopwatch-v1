@@ -1,0 +1,25 @@
+.text-center{
+    text-align: center;
+    color: white;
+}
+
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.item-center{
+    align-items: center;
+}
+
+.image-1{
+    background-image: url('https://www.reddit.com/r/spaceporn/comments/1d6ew64/red_rectangle_nebula_part_1/#lightbox');
+}
